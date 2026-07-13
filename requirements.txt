@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+matplotlib
+statsmodels
+scipy
+seaborn
+openpyxl
+python-bcb
+sidrapy
