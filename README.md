@@ -174,7 +174,7 @@ Ambas as APIs são **públicas, gratuitas e sem necessidade de autenticação**.
 
 ## Contexto
 
-Projeto desenvolvido como parte do portfólio de Henrique Nomics, estudante de Ciências Econômicas com foco em econometria e análise de dados. O objetivo é criar ferramentas práticas que reduzam a fricção entre dados públicos e análises econômicas reproduzíveis.
+Projeto desenvolvido como parte do portfólio de Henrique, estudante de Ciências Econômicas com foco em econometria e análise de dados. O objetivo é criar ferramentas práticas que reduzam a fricção entre dados públicos e análises econômicas reproduzíveis.
 
 ---
 
